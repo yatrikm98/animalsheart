@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/animalsheart/static/css/main.9f379b69.css",
-    "main.js": "/animalsheart/static/js/main.9c52d650.js",
+    "main.css": "/animalsheart/static/css/main.f6ca9ac0.css",
+    "main.js": "/animalsheart/static/js/main.de6cc31d.js",
     "static/js/787.635aedaa.chunk.js": "/animalsheart/static/js/787.635aedaa.chunk.js",
     "static/media/dog.svg": "/animalsheart/static/media/dog.70df56096fa41df9d7cc64fb46b40933.svg",
     "static/media/cat.svg": "/animalsheart/static/media/cat.a5ff6c61483cb1b6f176ebe2f042b359.svg",
@@ -11,12 +11,12 @@
     "static/media/horse.svg": "/animalsheart/static/media/horse.305d0410efa0b614518efa805890c6bc.svg",
     "static/media/heart.svg": "/animalsheart/static/media/heart.286db198ed3962d7ec4724276f411c63.svg",
     "index.html": "/animalsheart/index.html",
-    "main.9f379b69.css.map": "/animalsheart/static/css/main.9f379b69.css.map",
-    "main.9c52d650.js.map": "/animalsheart/static/js/main.9c52d650.js.map",
+    "main.f6ca9ac0.css.map": "/animalsheart/static/css/main.f6ca9ac0.css.map",
+    "main.de6cc31d.js.map": "/animalsheart/static/js/main.de6cc31d.js.map",
     "787.635aedaa.chunk.js.map": "/animalsheart/static/js/787.635aedaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f379b69.css",
-    "static/js/main.9c52d650.js"
+    "static/css/main.f6ca9ac0.css",
+    "static/js/main.de6cc31d.js"
   ]
 }
